@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Users/jassergarcia/projects/digitalage/interchange/BlazorDemo/bin/Release/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/jassergarcia/projects/digitalage/interchange/BlazorDemo/obj/Release/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
